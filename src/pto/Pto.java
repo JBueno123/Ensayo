@@ -15,7 +15,7 @@ public class Pto {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       System.out.println("Juanda es mk");    
+       System.out.println("Puto xd");    
     }
     
 }
